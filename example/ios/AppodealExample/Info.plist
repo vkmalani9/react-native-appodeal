@@ -39,15 +39,15 @@
 		<key>NSAllowsLocalNetworking</key>
 		<true/>
 	</dict>
+	<key>NSCalendarsUsageDescription</key>
+	<string>Appodeal React Native Example needs your calendar to provide personalised advertising experience tailored to you</string>
 	<key>NSLocationWhenInUseUsageDescription</key>
-	<string></string>
+	<string>Appodeal React Native Example needs your location for analytics and advertising purposes</string>
 	<key>NSUserTrackingUsageDescription</key>
-    <string>Appodeal React Native Example needs your advertising identifier to provide personalised advertising experience tailored to you</string>
-    <key>NSLocationWhenInUseUsageDescription</key>
-    <string>Appodeal React Native Example needs your location for analytics and advertising purposes</string>
-    <key>NSCalendarsUsageDescription</key>
-    <string>Appodeal React Native Example needs your calendar to provide personalised advertising experience tailored to you</string>
-    <key>UILaunchStoryboardName</key>
+	<string>Appodeal React Native Example needs your advertising identifier to provide personalised advertising experience tailored to you</string>
+	<key>RCTNewArchEnabled</key>
+	<true/>
+	<key>UILaunchStoryboardName</key>
 	<string>LaunchScreen</string>
 	<key>UIRequiredDeviceCapabilities</key>
 	<array>
